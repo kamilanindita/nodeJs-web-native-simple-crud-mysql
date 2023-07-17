@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "mysql": "^2.17.1",
+    "mysql": "^2.18.0",
     "routes": "^2.1.0",
     "swig": "^1.4.2"
   },
